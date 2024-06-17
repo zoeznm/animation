@@ -1,0 +1,1079 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.main {
+  background-color: #d5c3ff;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.change {
+  position: absolute;
+  width: 1401px;
+  height: 584px;
+  background-color: lightgoldenrodyellow;
+  top: 15%;
+  left: 9%;
+  border: 2px solid black;
+}
+.element {
+  position: absolute;
+  width: 1321px;
+  height: 504px;
+  background-color: whitesmoke;
+  top: 42px;
+  left: 42px;
+  border: 1.5px solid black;
+  position: relative;
+}
+.element > section:nth-child(1) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+}
+.element > section:nth-child(2) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 88.0667px;
+}
+.element > section:nth-child(3) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+}
+.element > section:nth-child(4) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+}
+.element > section:nth-child(5) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+}
+.element > section:nth-child(6) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+}
+.element > section:nth-child(7) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+}
+.element > section:nth-child(8) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+}
+.element > section:nth-child(9) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+}
+.element > section:nth-child(10) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+}
+.element > section:nth-child(11) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+}
+.element > section:nth-child(12) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+}
+.element > section:nth-child(13) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+}
+.element > section:nth-child(14) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+}
+.element > section:nth-child(15) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+}
+.element > section:nth-child(16) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:63px;
+}.element > section:nth-child(17) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:63px;
+  left: 88.0667px;
+}
+.element > section:nth-child(18) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:63px;
+}
+.element > section:nth-child(19) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:63px;
+}
+.element > section:nth-child(20) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:63px;
+}
+.element > section:nth-child(21) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:63px;
+}
+.element > section:nth-child(22) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:63px;
+}
+.element > section:nth-child(23) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:63px;
+}
+.element > section:nth-child(24) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:63px;
+}
+.element > section:nth-child(25) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:63px;
+}
+.element > section:nth-child(26) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:63px;
+}
+.element > section:nth-child(27) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:63px;
+}
+.element > section:nth-child(28) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:63px;
+}
+.element > section:nth-child(29) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:63px;
+}
+.element > section:nth-child(30) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:63px;
+}
+.element > section:nth-child(31) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:126px;
+}.element > section:nth-child(32) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:126px;
+  left: 88.0667px;
+}
+.element > section:nth-child(33) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:126px;
+}
+.element > section:nth-child(34) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:126px;
+}
+.element > section:nth-child(35) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:126px;
+}
+.element > section:nth-child(36) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:126px;
+}
+.element > section:nth-child(37) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:126px;
+}
+.element > section:nth-child(38) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:126px;
+}
+.element > section:nth-child(39) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:126px;
+}
+.element > section:nth-child(40) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:126px;
+}
+.element > section:nth-child(41) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:126px;
+}
+.element > section:nth-child(42) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:126px;
+}
+.element > section:nth-child(43) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:126px;
+}
+.element > section:nth-child(44) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:126px;
+}
+.element > section:nth-child(45) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:126px;
+}
+.element > section:nth-child(46) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:189px;
+}.element > section:nth-child(47) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:189px;
+  left: 88.0667px;
+}
+.element > section:nth-child(48) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:189px;
+}
+.element > section:nth-child(49) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:189px;
+}
+.element > section:nth-child(50) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:189px;
+}
+.element > section:nth-child(51) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:189px;
+}
+.element > section:nth-child(52) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:189px;
+}
+.element > section:nth-child(53) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:189px;
+}
+.element > section:nth-child(54) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:189px;
+}
+.element > section:nth-child(55) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:189px;
+}
+.element > section:nth-child(56) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:189px;
+}
+.element > section:nth-child(57) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:189px;
+}
+.element > section:nth-child(58) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:189px;
+}
+.element > section:nth-child(59) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:189px;
+}
+.element > section:nth-child(60) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:189px;
+}
+.element > section:nth-child(61) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:252px;
+}.element > section:nth-child(62) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:252px;
+  left: 88.0667px;
+}
+.element > section:nth-child(63) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:252px;
+}
+.element > section:nth-child(64) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:252px;
+}
+.element > section:nth-child(65) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:252px;
+}
+.element > section:nth-child(66) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:252px;
+}
+.element > section:nth-child(67) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:252px;
+}
+.element > section:nth-child(68) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:252px;
+}
+.element > section:nth-child(69) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:252px;
+}
+.element > section:nth-child(70) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:252px;
+}
+.element > section:nth-child(71) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:252px;
+}
+.element > section:nth-child(72) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:252px;
+}
+.element > section:nth-child(73) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:252px;
+}
+.element > section:nth-child(74) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:252px;
+}
+.element > section:nth-child(75) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:252px;
+}
+.element > section:nth-child(76) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:315px;
+}.element > section:nth-child(77) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:315px;
+  left: 88.0667px;
+}
+.element > section:nth-child(78) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:315px;
+}
+.element > section:nth-child(79) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:315px;
+}
+.element > section:nth-child(80) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:315px;
+}
+.element > section:nth-child(81) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:315px;
+}
+.element > section:nth-child(82) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:315px;
+}
+.element > section:nth-child(83) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:315px;
+}
+.element > section:nth-child(84) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:315px;
+}
+.element > section:nth-child(85) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:315px;
+}
+.element > section:nth-child(86) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:315px;
+}
+.element > section:nth-child(87) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:315px;
+}
+.element > section:nth-child(88) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:315px;
+}
+.element > section:nth-child(89) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:315px;
+}
+.element > section:nth-child(90) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:315px;
+}
+.element > section:nth-child(91) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:378px;
+}.element > section:nth-child(92) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:378px;
+  left: 88.0667px;
+}
+.element > section:nth-child(93) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:378px;
+}
+.element > section:nth-child(94) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:378px;
+}
+.element > section:nth-child(95) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:378px;
+}
+.element > section:nth-child(96) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:378px;
+}
+.element > section:nth-child(97) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:378px;
+}
+.element > section:nth-child(98) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:378px;
+}
+.element > section:nth-child(99) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:378px;
+}
+.element > section:nth-child(100) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:378px;
+}
+.element > section:nth-child(101) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:378px;
+}
+.element > section:nth-child(102) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:378px;
+}
+.element > section:nth-child(103) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:378px;
+}
+.element > section:nth-child(104) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:378px;
+}
+.element > section:nth-child(105) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:378px;
+}
+.element > section:nth-child(106) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:441px;
+}.element > section:nth-child(107) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  top:441px;
+  left: 88.0667px;
+}
+.element > section:nth-child(108) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 176.1334px;
+  top:441px;
+}
+.element > section:nth-child(109) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 264.2001px;
+  top:441px;
+}
+.element > section:nth-child(110) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 352.2668px;
+  top:441px;
+}
+.element > section:nth-child(111) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 440.3335px;
+  top:441px;
+}
+.element > section:nth-child(112) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 528.4002px;
+  top:441px;
+}
+.element > section:nth-child(113) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 616.4669px;
+  top:441px;
+}
+.element > section:nth-child(114) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 704.5336px;
+  top:441px;
+}
+.element > section:nth-child(115) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 792.6003px;
+  top:441px;
+}
+.element > section:nth-child(116) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 880.667px;
+  top:441px;
+}
+.element > section:nth-child(117) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 968.7337px;
+  top:441px;
+}
+.element > section:nth-child(118) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1056.8004px;
+  top:441px;
+}
+.element > section:nth-child(119) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1144.8671px;
+  top:441px;
+}
+.element > section:nth-child(120) {
+  position: absolute;
+  width: 88.0667px;
+  height: 63px;
+  background-color: lightcyan;
+  border: 0.5px solid black;
+  left: 1232.9338px;
+  top:441px;
+}

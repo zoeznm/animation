@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="secondpage.css"/>
+</head>
+<body>
+  <!--삭제버튼을 누르면 사라지게 하는 코드-->
+  <div class="dashboard">
+
+    <div class="profile">
+      <h2>Close Button!</h2>
+    </div>
+  
+    <div class="schedule-table"></div>
+  
+    <div class="exercise-table"></div>
+  
+    <div class="calories"></div>
+  
+    <div class="personal-bests"></div>
+  
+    <div class="challenges"></div>
+  
+    <div class="activity-feed"></div>
+  
+  </div>
+
+  <script>
+    //Code to create the close buttons
+
+function addCloseButtons() {
+  const elements = document.querySelectorAll('.dashboard > div');
+
+  elements.forEach(element => {
+      const button = document.createElement('button');
+      button.innerHTML = '×';
+      button.title = 'Close';
+
+      button.style.cursor = 'pointer';
+      button.style.marginRight = '5px';
+
+      button.onclick = function() {
+          element.remove();
+      };
+
+      element.insertBefore(button, element.firstChild);
+  });
+}
+
+addCloseButtons();
+
+  </script>
+</body>
+</html>
